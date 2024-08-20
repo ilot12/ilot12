@@ -54,11 +54,11 @@ GraphQL과 이와 관련된 Apollo-server, PrismaORM 사용
 
 <div style="display: flex; justify-content: space-between;">
   <div style="display: flex; flex-direction: column; width: 50%;">
-    <img src="imgs/DB_schema.png" alt="Image 1" style="width: 100%; margin-bottom: 10px;">
-    <img src="imgs/source_code_1.png" alt="Image 2" style="width: 100%;">
+    <img src="imgs/DB_schema.png" alt="Image 1" style="width: 50%; margin-bottom: 10px;">
+    <img src="imgs/source_code_1.png" alt="Image 2" style="width: 50%;">
   </div>
   <div style="width: 50%; text-align: right;">
-    <img src="imgs/wireframe_1.jpg" alt="Image 3" style="width: 100%;">
+    <img src="imgs/wireframe_1.jpg" alt="Image 3" style="width: 50%;">
   </div>
 </div>
 
