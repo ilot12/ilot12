@@ -54,11 +54,11 @@ GraphQL과 이와 관련된 Apollo-server, PrismaORM 사용
 
 <table style="width:100%; border:none;">
   <tr>
-    <td style="width:50%; border:none;" rowspan="2"><img src="imgs/wireframe_1.jpg" alt="Left Image" width="100%"></td>
-    <td style="width:50%; border:none;"><img src="imgs/DB_schema.png" alt="Right Image 1" width="100%"></td>
+    <td style="width:50%; border:none;" rowspan="2"><img src="imgs/wireframe_1.jpg" alt="Left Image" width="50%"></td>
+    <td style="width:50%; border:none;"><img src="imgs/DB_schema.png" alt="Right Image 1" width="50%"></td>
   </tr>
   <tr>
-    <td style="width:50%; border:none;"><img src="imgs/source_code_1.png" alt="Right Image 2" width="100%"></td>
+    <td style="width:50%; border:none;"><img src="imgs/source_code_1.png" alt="Right Image 2" width="50%"></td>
   </tr>
 </table>
 
