@@ -1,10 +1,10 @@
 # 김동주 포트폴리오
 
-![사진.jpg](imgs/profile.jpg)
-
 ## 자기 소개
 
 ---
+<div>
+<img src="imgs/profile.jpg" style="float: right; width: 30% ;">
 
 서강대학교 수학과( 2017.03 ~ 2024.02) 
 
@@ -19,6 +19,8 @@ C++로 백준과 프로그래머스의 문제를 풀며 알고리즘 공부도 �
 이메일 : rlaehdwn60@gmail.com
 
 전화번호 : 010-3433-2657
+
+</div>
 
 ## 공부 경험
 
