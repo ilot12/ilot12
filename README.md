@@ -1,7 +1,5 @@
 # 김동주 포트폴리오
 
-<img src="imgs/profile.jpg" style="float: right; width: 100 ;">
-
 ## 자기 소개
 
 ---
@@ -56,11 +54,11 @@ GraphQL과 이와 관련된 Apollo-server, PrismaORM 사용
 
 <div style="display: flex;">
   <div style="flex: 1; display: flex; flex-direction: column;">
-    <img src="imgs/DB_schema.png" alt="Image 1" style="width: 100%; margin-bottom: 10px;">
-    <img src="imgs/source_code_1.png" alt="Image 2" style="width: 100%;">
+    <img src="imgs/DB_schema.png" alt="Image 1" style="width: 50%; margin-bottom: 10px;">
+    <img src="imgs/source_code_1.png" alt="Image 2" style="width: 50%;">
   </div>
   <div style="flex: 1;">
-    <img src="imgs/wireframe_1.jpg" alt="Image 3" style="width: 100%;">
+    <img src="imgs/wireframe_1.jpg" alt="Image 3" style="width: 50%;">
   </div>
 </div>
 
