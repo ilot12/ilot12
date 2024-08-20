@@ -1,6 +1,6 @@
 # 김동주 포트폴리오
 
-![사진.jpg](imgs/profile.jpg){: width="100" height="100"}
+<img src="imgs/profile.jpg" style="float: right; width: 100 ;">
 
 ## 자기 소개
 
