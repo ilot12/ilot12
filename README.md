@@ -52,15 +52,16 @@ GraphQL과 이와 관련된 Apollo-server, PrismaORM 사용
 
 칵테일 레시피 관리 어플리케이션 기획 / 개발 (1인)
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div style="flex: 50%;">
-    <img src="imgs/DB_schema.png" alt="Left Image 1" style="width: 100%;">
-    <img src="imgs/source_code_1.png" alt="Left Image 2" style="width: 100%; margin-top: 10px;">
-  </div>
-  <div style="flex: 50%; margin-left: 10px;">
-    <img src="imgs/wireframe_1.jpg" alt="Right Image" style="width: 100%;">
-  </div>
-</div>
+<table style="width:100%; border:none;">
+  <tr>
+    <td style="width:50%; border:none;"><img src="imgs/DB_schema.png" alt="Left Image 1" width="100%"></td>
+    <td style="width:50%; border:none;" rowspan="2"><img src="imgs/wireframe_1.jpg" alt="Right Image" width="100%"></td>
+  </tr>
+  <tr>
+    <td style="width:50%; border:none;"><img src="imgs/source_code_1.png" alt="Left Image 2" width="100%"></td>
+  </tr>
+</table>
+
 
 DB설계, 화면 설계, 소스 코드 이미지
 
