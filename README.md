@@ -28,8 +28,6 @@ Java, JavaScript 기반의 BE/FE를 공부하며 C++로 알고리즘 공부도 �
 
 기간 : 2025. 01 ~ 2025. 02
 
-링크 : https://github.com/ilot12/ThrowingPirates
-
 ![TP이미지.gif](imgs/TP이미지.gif)
 
 슬레이 더 스파이어와 모바일 게임 Weapon Throwing Rpg에서 영감을 받아 제작했습니다.
@@ -62,8 +60,6 @@ Java, JavaScript 기반의 BE/FE를 공부하며 C++로 알고리즘 공부도 �
 ### 게임 개발 개인 프로젝트
 
 기간 : 2024. 12 (2주)
-
-링크 : https://github.com/ilot12/RGBullet
 
 ![RGB이미지.gif](imgs/RGB이미지.gif)
 
