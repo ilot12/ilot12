@@ -30,6 +30,8 @@ Java, JavaScript 기반의 BE/FE를 공부하며 C++로 알고리즘 공부도 �
 
 ![TP이미지.gif](imgs/TP이미지.gif)
 
+다운로드 링크: https://drive.google.com/file/d/1X1lXKOo5abk3zJa6Rq1xbK1Gfgmn8RAV/view?usp=drive_link
+
 슬레이 더 스파이어와 모바일 게임 Weapon Throwing Rpg에서 영감을 받아 제작했습니다.
 
 슬레이 더 스파이어와 똑같이 진행되고, 동작도 카드를 이용하여 똑같이 동작되도록 구현했습니다.
@@ -62,6 +64,8 @@ Java, JavaScript 기반의 BE/FE를 공부하며 C++로 알고리즘 공부도 �
 기간 : 2024. 12 (2주)
 
 ![RGB이미지.gif](imgs/RGB이미지.gif)
+
+다운로드 링크: https://drive.google.com/file/d/1C-8Gr4PqO13rq_KG0_DILo4mBIrE0F8_/view?usp=drive_link
 
 모바일 게임 ReversEstory에서 영감을 받아 제작했습니다.
 
