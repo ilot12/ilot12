@@ -24,8 +24,7 @@
 
 기간 : 2025 ~ 현재
 
-<!-- 썸네일 이미지를 아래에 넣어주세요 -->
-<!-- ![ArtLink](imgs/artlink_thumbnail.png) -->
+![ArtLink](imgs/artlink_thumbnail.png)
 
 배포 링크 : https://artlink-2esp.onrender.com/
 
@@ -47,8 +46,7 @@
 
 기간 : 2025.08 ~ 2025.11
 
-<!-- 썸네일 이미지를 아래에 넣어주세요 -->
-<!-- ![드래그 퀘스트](imgs/drag_quest_thumbnail.png) -->
+![드래그 퀘스트](imgs/drag_quest_thumbnail.png)
 
 다운로드 링크 : https://store.onstove.com/ko/games/102998
 
@@ -72,9 +70,6 @@ Stove 인디에 데모를 출시한 로그라이크 퍼즐 전투 게임입니�
 
 기간 : 2025.11 ~ 2025.12
 
-<!-- 썸네일 이미지를 아래에 넣어주세요 -->
-<!-- ![넘버스 파라노이어](imgs/numbers_thumbnail.png) -->
-
 앱인토스에 출시한 게임입니다.
 
 완성된 Unity 게임을 React 웹뷰로 감싸 앱인토스 플랫폼 형식에 맞게 포팅했습니다.
@@ -87,8 +82,7 @@ Stove 인디에 데모를 출시한 로그라이크 퍼즐 전투 게임입니�
 
 기간 : 2025.12 ~ 현재
 
-<!-- 썸네일 이미지를 아래에 넣어주세요 -->
-<!-- ![김밥천국 시뮬레이터](imgs/kimbap_thumbnail.png) -->
+![김밥천국 시뮬레이터](imgs/kimbap_thumbnail.jpg)
 
 다운로드 링크 : https://store.steampowered.com/app/4206910
 
